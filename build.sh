@@ -1,3 +1,3 @@
-npm install cocoapods
-npm install   
+cnpm install cocoapods
+cnpm install   
 npm exec jekyll build
