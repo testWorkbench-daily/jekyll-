@@ -1,4 +1,4 @@
 cnpm install cocoapods
-rm -rf .git/hooks
+npm install --user-install bundler jekyll
 cnpm install   
 npm exec jekyll build
