@@ -1,4 +1,3 @@
-
-gem install cocoapods
-gem install jekyll bundler
-bundle exec jekyll build
+npm install cocoapods
+npm install   
+npm exec jekyll build
